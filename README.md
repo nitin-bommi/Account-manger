@@ -1,6 +1,6 @@
 # Account Manager
 
-[![Build Status](https://travis-ci.org/Nitin1901/Account-manger.svg?branch=master)
+![Build Status](https://travis-ci.org/Nitin1901/Account-manger.svg?branch=master)
 
 ### How the code is managed
 
