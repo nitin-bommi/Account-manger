@@ -6,5 +6,4 @@ install:
   - pip install ipywidgets
   - pip install IPython
   - pip install pymongo
-  - pip install urllib
 script: python Banking.ipynb
