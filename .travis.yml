@@ -4,7 +4,7 @@ python:
 install:
   - pip install unittest2
   - pip install ipywidgets
-  - pip install IPython.display
+  - pip install IPython
   - pip install pymongo
   - pip install urllib
 script: python Banking.ipynb
