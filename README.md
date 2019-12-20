@@ -2,19 +2,6 @@
 
 ![Build Status](https://travis-ci.org/Nitin1901/Account-manger.svg?branch=master)
 
-<img src='https://g.gravizo.com/svg?
- digraph G {
-   main -> parse -> execute;
-   main -> init;
-   main -> cleanup;
-   execute -> make_string;
-   execute -> printf
-   init -> make_string;
-   main -> printf;
-   execute -> compare;
- }
-'/>
-
 ### How the code is managed
 
 The above code is divided into different functions which include,
